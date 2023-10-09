@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raciel88p
 - 👀 I’m interested in artificial inteligence and data 
 - 🌱 I’m currently learning ... git, python
-- 💞️ I’m looking to collaborate on ... SEO with AI
+- 💞️ I’m looking to collaborate on ... SEO with AI, Web Analytics, Adobe Anaylytics, and Ab testing 
 - 📫 How to reach me ... here or my linkedin  https://www.linkedin.com/in/roberto88/
 
 <!---

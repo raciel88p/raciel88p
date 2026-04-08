@@ -6,7 +6,7 @@ What I Work On:
 -Optimizing JavaScript-driven websites (Next.js, rendering, crawlability & indexation)
 -Improving Core Web Vitals and overall site performance
 -Building robust analytics & tracking systems (GA4, GTM, Looker Studio)
--Implementing structured data and SEO automation workflows, Replit  (R and D)
+-Implementing structured data and SEO automation workflows,  (R and D)
 
 Tech Stack & Tools:
 -Languages: JavaScript, HTML, CSS, Python
